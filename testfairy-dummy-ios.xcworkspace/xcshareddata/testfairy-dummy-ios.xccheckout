@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>05E07E39-24BB-42D6-B6E7-1D68212EDAAB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>testfairy-dummy-ios</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DF13D52E765701666CEB77E264D075B7B1E13A8D</key>
+		<string>github.com:tishma/testfairy-dummy-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>testfairy-dummy-ios.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DF13D52E765701666CEB77E264D075B7B1E13A8D</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:tishma/testfairy-dummy-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DF13D52E765701666CEB77E264D075B7B1E13A8D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DF13D52E765701666CEB77E264D075B7B1E13A8D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>testfairy-dummy-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
