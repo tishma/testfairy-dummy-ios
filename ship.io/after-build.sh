@@ -56,11 +56,6 @@ verify_settings() {
 	fi
 }
 
-if [ $# -ne 1 ]; then
-	usage
-	exit 1
-fi
-
 # before even going on, make sure all tools work
 verify_tools
 verify_settings
