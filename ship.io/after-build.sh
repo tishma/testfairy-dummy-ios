@@ -2,7 +2,7 @@
 
 # taken from UPLOADER_VERSION=1.09
 #the output of build process should go here
-IPA_FILENAME=ship.io/dummy.ipa
+IPA_FILENAME=dummy.ipa
 
 # Put your TestFairy API_KEY here. Find it in your TestFairy account settings.
 TESTFAIRY_API_KEY=2ac2709f30963b30320dbb3c375416b5956f5e6d
